@@ -1,0 +1,6 @@
+recId;SeqNumber;seqLength;relevance;matchLevel;country;state;county;city;district;street;postalCode;latitude;longitude
+0001;1;1;0.97;houseNumber;DEU;Berlin;Berlin;Berlin;Mitte;Invalidenstraße;10115;52.531;13.38461
+0002;1;1;1.0;houseNumber;DEU;Hessen;Main-Taunus-Kreis;Schwalbach am Taunus;Schwalbach am Taunus;Am Kronberger Hang;65824;50.16189;8.53346
+0003;1;1;1.0;houseNumber;USA;IL;Cook;Chicago;West Loop;W Randolph St;60606;41.88449;-87.63877
+0004;1;1;1.0;houseNumber;USA;MA;Middlesex;Cambridge;East Cambridge;Main St;02142;42.36195;-71.0801
+0005;1;1;1.0;houseNumber;USA;CA;Santa Clara;Sunnyvale;Heritage District;S Mathilda Ave;94086;37.37641;-122.03445
